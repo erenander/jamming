@@ -1,5 +1,5 @@
 const clientID = '1494c8dc51ae4ce3bd637ba88cc23feb';
-const redirectUri= 'ejamv2.netlify.app';
+const redirectUri= 'https://ejamv2.netlify.app/';
 
 let accessToken;
 
